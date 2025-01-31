@@ -1,0 +1,6 @@
+[submodule "backprop-neat-js"]
+	path = backprop-neat-js
+	url = https://github.com/hardmaru/backprop-neat-js
+[submodule "slimevolleygym"]
+	path = slimevolleygym
+	url = https://github.com/hardmaru/slimevolleygym
